@@ -35,7 +35,7 @@ Pour une explication plus détaillée de sa syntax voir {{Cssxref(":nth-child")}
 
 ## Exemples
 
-Dans cet exemple nous allons colorer un paragrapher sur deux avec des couleurs différentes et mettre le premier paragraphe en gras
+Dans cet exemple nous allons colorer un paragraphe sur deux avec des couleurs différentes et mettre le premier paragraphe en gras
 
 ### HTML
 
